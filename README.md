@@ -1,2 +1,2 @@
-# dsa
-Damn Small App in PHP
+# Damn Small App
+This is an small PHP application
